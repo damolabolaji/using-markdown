@@ -1,7 +1,8 @@
 # Heading To My Own File
 ## Well, here we go
 
-![a watercolor blob] (https://ibb.co/qD4dbVT)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 ```This is code block for javasript
